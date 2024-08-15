@@ -2,7 +2,7 @@
 
 Welcome to the **CSS Variables Manipulation** project! 🎨 This project showcases how you can dynamically update CSS variables using JavaScript to control spacing, blur, and base color effects on an image.
 
-## **-->[🔥Live Demo]()**
+## **-->[🔥Live Demo](https://anirudha-8.github.io/css-variables-manipulation/)**
 
 ## 🛠️ Project Features
 
