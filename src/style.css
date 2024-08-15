@@ -55,7 +55,7 @@ h1 {
 .img-container {
 	max-width: 100%;
 	width: 30rem;
-	padding: 1rem 1rem;
+	padding: var(--spacing);
 	margin: 2rem 0;
 	background-color: var(--base);
 	border-radius: 0.8rem;
@@ -63,6 +63,7 @@ h1 {
 
 img {
 	max-width: 100%;
+	filter: blur(var(--blur));
 }
 
 .controls {
